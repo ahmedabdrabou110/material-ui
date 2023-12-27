@@ -9,6 +9,7 @@ const Root = () => {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos ut
         aut, atque quaerat in!
       </Typography>
+      
       <Outlet />
     </div>
   );
